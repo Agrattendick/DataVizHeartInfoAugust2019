@@ -2,6 +2,8 @@
 # Resting Hearth Rate by Heart Mass
 # r/dataisbeautiful's DataViz Battle for August 2019
 
+![Chart of resting heart rate by heart mass](Images/Resting_Heart_Rate_by_Heart_Mass.png)
+
 ## Background
 For August 2019 Reddit's r/dataisbeautiful's DataViz Battle's dataset dealt with the heart mass, resting heart rate, and lifespan of various animals. 
 
