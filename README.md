@@ -8,7 +8,7 @@
 For August 2019 Reddit's r/dataisbeautiful's DataViz Battle's dataset dealt with the heart mass, resting heart rate, and lifespan of various animals. 
 
 ## Data Cleaning
-The data for this set is small, and already quite organized. The only "cleaning" was combining two of the animals' names into one cell so they didn't overlap on the chart. Unfortunately that makes the .csv worthless to anything but this chart; to compensate for, a copy of the raw data was added to the repo. 
+The data for this set is small, and already quite organized. The only "cleaning" was combining two of the animals' names into one cell so they didn't overlap on the chart. Unfortunately that makes the .csv worthless to anything but this chart; to compensate for this problem, a copy of the raw data was added to the repo. 
 
 ## Charting
 Matplotlib and Jupyter Notebook were used for the charting. Heart mass and resting heart rate showed a higer R<sup>2</sup> value those two values got charted on the X & Y axes.  
