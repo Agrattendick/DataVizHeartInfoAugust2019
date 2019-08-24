@@ -21,6 +21,14 @@ That said, the markers are red because oxygenated blood is red, hearts pump bloo
 
 Each marker is annotated with the creature that dot represents. The dataset uses commonly known creatures and adding their names to the chart helps readers understand the trends shown. It also gives them a rough idea for comparing heart mass, heart rate, and lifespan to body mass.
 
+## Conclusions
+While there appears to be a link between both heart rates and mass with lifespan, this assesment is tenuious at best. The sample size is small and the standard deviations are high. Both the Hamster and the Large Whale are influential points increasing what was already just a moderate correlation. The project was fun, and the work is professional, but drawning concluisons from this dataset is ill advised. 
+
+## Additional Work
+After reviewing the entries from other applicants and seeing that some imply not only correlation between the variable, but causation as well, additional data was found for five more animals. This information further weakens the correlation of the data, hopefully decreasing the chance of this classic mistake. Unfortunetly this data was grabbed from various places online.
+
+![Chart of Resting Heart Rate by Mass (with added animals)](Images/Resting_Heart_Rate_By_Heart_Mass_added.png)
+
 ## Links
 [r/dataisbeautiful DataViz Battle for August 2019](https://www.reddit.com/r/dataisbeautiful/comments/cmrz6j/battle_dataviz_battle_for_the_month_of_august/)
 
