@@ -27,7 +27,7 @@ While there appears to be a link between both heart rates and mass with lifespan
 ## Additional Work
 After reviewing the entries from other applicants and seeing that some imply not only correlation between the variable, but causation as well, additional data was found for five more animals. This information further weakens the correlation of the data, hopefully decreasing the chance of this classic mistake. Unfortunetly this data was grabbed from various places online.
 
-![Chart of Resting Heart Rate by Mass (with added animals)](Images/Resting_Heart_Rate_By_Heart_Mass_Added.png)
+![Chart of Resting Heart Rate by Mass (with added animals)](Images/Resting_Heart_Rate_by_Heart_Mass_Added.png)
 
 ## Links
 [r/dataisbeautiful DataViz Battle for August 2019](https://www.reddit.com/r/dataisbeautiful/comments/cmrz6j/battle_dataviz_battle_for_the_month_of_august/)
